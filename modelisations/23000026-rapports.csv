@@ -1,0 +1,10 @@
+physiques,acteurs,concepts,description,couleur,poids
+rect1-2,path1-3-1-7-5,path1-5-8,La résolution d'un problème propose pour un enseignant,red,6
+rect1-2,path1-3-1-7,path1-5-8,La résolution d'un problème propose pour un étudiant,bleu,6
+rect1-2,path1-3-1-7-5,path1-5-8-2,La création d'un problème propose pour un enseignant,red,6
+rect1-2,path1-3-1-7,path1-5-8-2,La création d'un problème propose pour un étudiant,bleu,6
+rect1-2-7,path1-3-1-7-5,path1-5-8,Base de donne utilise pour la résolution d'un problème propose pour un enseignant,red,6
+rect1-2-7,path1-3-1-7,path1-5-8,Base de donne utilise pour la résolution d'un problème propose pour un étudiant,bleu,6
+rect1-2-7,path1-3-1-7-5,path1-5-8-2,Base de donne utilise pour la  création d'un problème propose pour un enseignant,red,6
+rect1-2-7,path1-3-1-7,path1-5-8-2,Base de donne utilise pour la  création d'un problème propose pour un étudiant,bleu,6
+rect1,path1-3-1,,,,
